@@ -22,20 +22,25 @@ const getcartData = async(req,res)=>{
     res.send(cartdata)
 }
 
-const searchdata = async(req,res)=>{
-    const {searchval} = req.body;
+const searchdata = async (req,res)=>{
+    const {searchval} = req.query
+    // console.log(searchval);
 
     const queryObj = {}
 
-    // if (!searchval || searchval === null) {
-    //     return res.send("Invalid Search")
-    // }
-    if(searchval)
-    {
+    
+    if(searchval){
         queryObj.searchval = {$regex : searchval , $options : "i"};
     }
 
+    if(!searchval)
+    {
+        return res.send("Invalid search")
+    }
+   
+    // console.log(queryObj);
     const search = await AlldataCollection.find(queryObj)
+    
     return res.send(search)
 }
 

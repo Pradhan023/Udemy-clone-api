@@ -28,6 +28,9 @@ const allDataSchema = mongoose.Schema({
     subcat:{
         type:String
     },
+    searchval:{
+        type:String
+    }
 })
 
 const allregDataSchema = mongoose.Schema({

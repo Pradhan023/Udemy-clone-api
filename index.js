@@ -8,11 +8,13 @@ const Connection = require("./Config/config")
 
 app.use(cors())
 
+app.use(express.json())
+
 const route = require("./RoutesComp/routeComp")
 
 const Port = process.env.Port || 3000;
 
-app.use(express.json())
+
 
 app.use("/api",route)
 
