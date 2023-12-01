@@ -43,7 +43,7 @@ const LoginController = async(req,res)=>{
         const encrypt = bcrypt.compareSync(password,details.password);
         if(encrypt){
             const token = jwt.sign({email:email},secretKey,{expiresIn:"7d"});
-            return res.send({msg:"User is successfully Login",name:details.username,token:token});
+            return res.send({msg:"User is successfully Login",name:details.username,email:details.email,token:token});
         }
         else {
             return res.send({msg:"Check Password"})
