@@ -22,4 +22,21 @@ const getcartData = async(req,res)=>{
     res.send(cartdata)
 }
 
-module.exports = {pushData,getData,pushcartData,getcartData}
+const searchdata = async(req,res)=>{
+    const {searchval} = req.body;
+
+    const queryObj = {}
+
+    // if (!searchval || searchval === null) {
+    //     return res.send("Invalid Search")
+    // }
+    if(searchval)
+    {
+        queryObj.searchval = {$regex : searchval , $options : "i"};
+    }
+
+    const search = await AlldataCollection.find(queryObj)
+    return res.send(search)
+}
+
+module.exports = {pushData,getData,pushcartData,getcartData,searchdata}

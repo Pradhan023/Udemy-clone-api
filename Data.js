@@ -8,7 +8,8 @@ const Dummydata = [
         rating:"4.7",
         price:499,
         category:"Business",
-        subcat:"Communication"
+        subcat:"Communication",
+        searchval:"Business Communication"
     },
     {
         id:2,
@@ -19,7 +20,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Communication"
+        subcat:"Communication",
+        searchval:"Business Communication"
     },
     {
         id:3,
@@ -30,7 +32,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Business",
-        subcat:"Communication"
+        subcat:"Communication",
+        searchval:"Business Communication"
     },
     {
         id:4,
@@ -41,7 +44,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Communication"
+        subcat:"Communication",
+        searchval:"Business Communication"
     },
     {
         id:5,
@@ -52,7 +56,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Business",
-        subcat:"Communication"
+        subcat:"Communication",
+        searchval:"Business Communication"
     },
     {
         id:6,
@@ -63,7 +68,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Business",
-        subcat:"Managements"
+        subcat:"Managements",
+        searchval:"Business Managements"
     },
     {
         id:7,
@@ -74,7 +80,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Managements"
+        subcat:"Managements",
+        searchval:"Business Managements"
     },
     {
         id:8,
@@ -85,7 +92,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Business",
-        subcat:"Managements"
+        subcat:"Managements",
+        searchval:"Business Managements"
     },
     {
         id:9,
@@ -96,7 +104,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Business",
-        subcat:"Managements"
+        subcat:"Managements",
+        searchval:"Business Managements"
     },
     {
         id:10,
@@ -107,7 +116,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Managements"
+        subcat:"Managements",
+        searchval:"Business Managements"
     },
     {
         id:11,
@@ -118,7 +128,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Business",
-        subcat:"Business Strategy"
+        subcat:"Business Strategy",
+        searchval:"Business Strategy"
     },
     {
         id:12,
@@ -129,7 +140,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Business",
-        subcat:"Business Strategy"
+        subcat:"Business Strategy",
+        searchval:"Business Strategy"
     },
     {
         id:13,
@@ -140,7 +152,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Business",
-        subcat:"Business Strategy"
+        subcat:"Business Strategy",
+        searchval:"Business Strategy"
     },
     {
         id:14,
@@ -151,7 +164,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Business Strategy"
+        subcat:"Business Strategy",
+        searchval:"Business Strategy"
     },
     {
         id:15,
@@ -162,7 +176,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Business",
-        subcat:"Business Strategy"
+        subcat:"Business Strategy",
+        searchval:"Business Strategy"
     },
     {
         id:16,
@@ -173,7 +188,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Operations"
+        subcat:"Operations",
+        searchval:"Business Operations"
     },
     {
         id:17,
@@ -184,7 +200,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Business",
-        subcat:"Operations"
+        subcat:"Operations",
+        searchval:"Business Operations"
     },
     {
         id:18,
@@ -195,7 +212,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Operations"
+        subcat:"Operations",
+        searchval:"Business Operations"
     },
     {
         id:19,
@@ -206,7 +224,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Business",
-        subcat:"Operations"
+        subcat:"Operations",
+        searchval:"Business Operations"
     },
     {
         id:20,
@@ -217,7 +236,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Business",
-        subcat:"Operations"
+        subcat:"Operations",
+        searchval:"Business Operations"
     },
     {
         id:21,
@@ -228,7 +248,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Business",
-        subcat:"Human Resources"
+        subcat:"Human Resources",
+        searchval:"Business Human Resources"
     },
     {
         id:22,
@@ -239,7 +260,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Human Resources"
+        subcat:"Human Resources",
+        searchval:"Business Human Resources"
     },
     {
         id:23,
@@ -250,7 +272,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Business",
-        subcat:"Human Resources"
+        subcat:"Human Resources",
+        searchval:"Business Human Resources"
     },
     {
         id:24,
@@ -261,7 +284,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Business",
-        subcat:"Human Resources"
+        subcat:"Human Resources",
+        searchval:"Business Human Resources"
     },
     {
         id:25,
@@ -272,7 +296,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Business",
-        subcat:"Human Resources"
+        subcat:"Human Resources",
+        ssearchval:"Business Human Resources"
     },
     {
         id:26,
@@ -283,7 +308,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Accounting & Bookkeeping"
+        subcat:"Accounting & Bookkeeping",
+        searchval:"Finance & Accounting Accounting & Bookkeeping",
     },
     {
         id:27,
@@ -294,7 +320,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Accounting & Bookkeeping"
+        subcat:"Accounting & Bookkeeping",
+        searchval:"Finance & Accounting Accounting & Bookkeeping"
     },
     {
         id:28,
@@ -305,7 +332,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Accounting & Bookkeeping"
+        subcat:"Accounting & Bookkeeping",
+        searchval:"Finance & Accounting Accounting & Bookkeeping"
     },
     {
         id:29,
@@ -316,7 +344,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Accounting & Bookkeeping"
+        subcat:"Accounting & Bookkeeping",
+        searchval:"Finance & Accounting Accounting & Bookkeeping"
     },
     {
         id:30,
@@ -327,7 +356,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Accounting & Bookkeeping"
+        subcat:"Accounting & Bookkeeping",
+        searchval:"Finance & Accounting Accounting & Bookkeeping"
     },
     {
         id:31,
@@ -338,7 +368,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Compliance"
+        subcat:"Compliance",
+        searchval:"Finance & Accounting Compliance"
     },
     {
         id:32,
@@ -349,7 +380,8 @@ const Dummydata = [
         rating:"4.3",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Compliance"
+        subcat:"Compliance",
+        searchval:"Finance & Accounting Compliance"
     },
     {
         id:33,
@@ -360,7 +392,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Compliance"
+        subcat:"Compliance",
+        searchval:"Finance & Accounting Compliance"
     },
     {
         id:34,
@@ -371,7 +404,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Compliance"
+        subcat:"Compliance",
+        searchval:"Finance & Accounting Compliance"
     },
     {
         id:35,
@@ -382,7 +416,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Finance & Accounting",
-        subcat:"Compliance"
+        subcat:"Compliance",
+        searchval:"Finance & Accounting Compliance"
     },
     {
         id:36,
@@ -393,7 +428,8 @@ const Dummydata = [
         rating:"4.5",
         price:999,
         category:"Finance & Accounting",
-        subcat:"Economic"
+        subcat:"Economic",
+        searchval:"Finance & Accounting Economic"
     },
     {
         id:37,
@@ -404,7 +440,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Economic"
+        subcat:"Economic",
+        searchval:"Finance & Accounting Economic"
     },
     {
         id:38,
@@ -415,7 +452,8 @@ const Dummydata = [
         rating:"4.7",
         price:1299,
         category:"Finance & Accounting",
-        subcat:"Economic"
+        subcat:"Economic",
+        searchval:"Finance & Accounting Economic"
     },
     {
         id:39,
@@ -426,7 +464,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Economic"
+        subcat:"Economic",
+        searchval:"Finance & Accounting Economic"
     },
     {
         id:40,
@@ -437,7 +476,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Economic"
+        subcat:"Economic",
+        searchval:"Finance & Accounting Economic"
     },
     {
         id:41,
@@ -448,7 +488,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Finance"
+        subcat:"Finance",
+        searchval:"Finance & Accounting Finance"
     },
     {
         id:42,
@@ -459,7 +500,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Finance"
+        subcat:"Finance",
+        searchval:"Finance & Accounting Finance"
     },
     {
         id:43,
@@ -470,7 +512,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Finance"
+        subcat:"Finance",
+        searchval:"Finance & Accounting Finance"
     },
     {
         id:44,
@@ -481,7 +524,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Finance"
+        subcat:"Finance",
+        searchval:"Finance & Accounting Finance"
     },
     {
         id:45,
@@ -492,7 +536,8 @@ const Dummydata = [
         rating:"4.4",
         price:5229,
         category:"Finance & Accounting",
-        subcat:"Finance"
+        subcat:"Finance",
+        searchval:"Finance & Accounting Finance"
     },
     {
         id:46,
@@ -503,7 +548,8 @@ const Dummydata = [
         rating:"4.3",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Taxes"
+        subcat:"Taxes",
+        searchval:"Finance & Accounting Taxes"
     },
     {
         id:47,
@@ -514,7 +560,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Taxes"
+        subcat:"Taxes",
+        searchval:"Finance & Accounting Taxes"
     },
     {
         id:48,
@@ -525,7 +572,8 @@ const Dummydata = [
         rating:"4.1",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Taxes"
+        subcat:"Taxes",
+        searchval:"Finance & Accounting Taxes"
     },
     {
         id:49,
@@ -536,7 +584,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Taxes"
+        subcat:"Taxes",
+        searchval:"Finance & Accounting Taxes"
     },
     {
         id:50,
@@ -547,7 +596,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Finance & Accounting",
-        subcat:"Taxes"
+        subcat:"Taxes",
+        searchval:"Finance & Accounting Taxes"
     },
     {
         id:51,
@@ -558,7 +608,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"IT & Software",
-        subcat:"IT Certification"
+        subcat:"IT Certification",
+        searchval:"IT & Software IT Certification"
     },
     {
         id:52,
@@ -569,7 +620,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"IT & Software",
-        subcat:"IT Certification"
+        subcat:"IT Certification",
+        searchval:"IT & Software IT Certification"
     },
     {
         id:53,
@@ -580,7 +632,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"IT Certification"
+        subcat:"IT Certification",
+        searchval:"IT & Software IT Certification"
     },
     {
         id:54,
@@ -591,7 +644,8 @@ const Dummydata = [
         rating:"4.8",
         price:649,
         category:"IT & Software",
-        subcat:"IT Certification"
+        subcat:"IT Certification",
+        searchval:"IT & Software IT Certification"
     },
     {
         id:55,
@@ -602,7 +656,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"IT & Software",
-        subcat:"IT Certification"
+        subcat:"IT Certification",
+        searchval:"IT & Software IT Certification"
     },
     {
         id:56,
@@ -613,7 +668,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"Network & Security"
+        subcat:"Network & Security",
+        searchval:"IT & Software Network & Security"
     },
     {
         id:57,
@@ -624,7 +680,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"IT & Software",
-        subcat:"Network & Security"
+        subcat:"Network & Security",
+        searchval:"IT & Software Network & Security"
     },
     {
         id:58,
@@ -635,7 +692,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"IT & Software",
-        subcat:"Network & Security"
+        subcat:"Network & Security",
+        searchval:"IT & Software Network & Security"
     },
     {
         id:59,
@@ -646,7 +704,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"Network & Security"
+        subcat:"Network & Security",
+        searchval:"IT & Software Network & Security"
     },
     {
         id:60,
@@ -657,7 +716,8 @@ const Dummydata = [
         rating:"4.3",
         price:529,
         category:"IT & Software",
-        subcat:"Network & Security"
+        subcat:"Network & Security",
+        searchval:"IT & Software Network & Security"
     },
     {
         id:61,
@@ -668,7 +728,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"IT & Software",
-        subcat:"Hardware"
+        subcat:"Hardware",
+        searchval:"IT & Software Hardware"
     },
     {
         id:62,
@@ -679,7 +740,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"Hardware"
+        subcat:"Hardware",
+        searchval:"IT & Software Hardware"
     },
     {
         id:63,
@@ -690,7 +752,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"Hardware"
+        subcat:"Hardware",
+        searchval:"IT & Software Hardware"
     },
     {
         id:64,
@@ -701,7 +764,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"Hardware"
+        subcat:"Hardware",
+        searchval:"IT & Software Hardware"
     },
     {
         id:65,
@@ -712,7 +776,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"IT & Software",
-        subcat:"Hardware"
+        subcat:"Hardware",
+        searchval:"IT & Software Hardware"
     },
     {
         id:66,
@@ -723,7 +788,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"Operating system & Servers"
+        subcat:"Operating system & Servers",
+        searchval:"IT & Software Operating system & Server"
     },
     {
         id:67,
@@ -734,7 +800,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"Operating system & Servers"
+        subcat:"Operating system & Servers",
+        searchval:"IT & Software Operating system & Server"
     },
     {
         id:68,
@@ -745,7 +812,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"IT & Software",
-        subcat:"Operating system & Servers"
+        subcat:"Operating system & Servers",
+        searchval:"IT & Software Operating system & Server"
     },
     {
         id:69,
@@ -756,7 +824,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"IT & Software",
-        subcat:"Operating system & Servers"
+        subcat:"Operating system & Servers",
+        searchval:"IT & Software Operating system & Server"
     },
     {
         id:70,
@@ -767,7 +836,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"IT & Software",
-        subcat:"Operating system & Servers"
+        subcat:"Operating system & Servers",
+        searchval:"IT & Software Operating system & Server"
     },
     {
         id:71,
@@ -778,7 +848,8 @@ const Dummydata = [
         rating:"4.6",
         price:629,
         category:"IT & Software",
-        subcat:"Other IT & Software"
+        subcat:"Other IT & Software",
+        searchval:"IT & Software Other IT & Software"
     },
     {
         id:72,
@@ -789,7 +860,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"IT & Software",
-        subcat:"Other IT & Software"
+        subcat:"Other IT & Software",
+        searchval:"IT & Software Other IT & Software"
     },
     {
         id:73,
@@ -800,7 +872,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"IT & Software",
-        subcat:"Other IT & Software"
+        subcat:"Other IT & Software",
+        searchval:"IT & Software Other IT & Software"
     },
     {
         id:74,
@@ -811,7 +884,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"IT & Software",
-        subcat:"Other IT & Software"
+        subcat:"Other IT & Software",
+        searchval:"IT & Software Other IT & Software"
     },
     {
         id:75,
@@ -822,7 +896,8 @@ const Dummydata = [
         rating:"4.5",
         price:599,
         category:"IT & Software",
-        subcat:"Other IT & Software"
+        subcat:"Other IT & Software",
+        searchval:"IT & Software Other IT & Software"
     },
     {
         id:76,
@@ -833,7 +908,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Design",
-        subcat:"Web Design"
+        subcat:"Web Design",
+        searchval:"Design Web Design"
     },
     {
         id:77,
@@ -844,7 +920,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Design",
-        subcat:"Web Design"
+        subcat:"Web Design",
+        searchval:"Design Web Design"
     },
     {
         id:78,
@@ -855,7 +932,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Design",
-        subcat:"Web Design"
+        subcat:"Web Design",
+        searchval:"Design Web Design"
     },
     {
         id:79,
@@ -866,7 +944,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Design",
-        subcat:"Web Design"
+        subcat:"Web Design",
+        searchval:"Design Web Design"
     },
     {
         id:80,
@@ -877,7 +956,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Design",
-        subcat:"Web Design"
+        subcat:"Web Design",
+        searchval:"Design Web Design"
     },
     {
         id:81,
@@ -888,7 +968,8 @@ const Dummydata = [
         rating:"4.2",
         price:529,
         category:"Design",
-        subcat:"Game Design"
+        subcat:"Game Design",
+        searchval:"Design Game Design"
     },
     {
         id:82,
@@ -899,7 +980,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Design",
-        subcat:"Game Design"
+        subcat:"Game Design",
+        searchval:"Design Game Design"
     },
     {
         id:83,
@@ -910,7 +992,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Design",
-        subcat:"Game Design"
+        subcat:"Game Design",
+        searchval:"Design Game Design"
     },
     {
         id:84,
@@ -921,7 +1004,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Design",
-        subcat:"Game Design"
+        subcat:"Game Design",
+        searchval:"Design Game Design"
     },
     {
         id:85,
@@ -932,7 +1016,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Design",
-        subcat:"Game Design"
+        subcat:"Game Design",
+        searchval:"Design Game Design"
     },
     {
         id:86,
@@ -943,7 +1028,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Design",
-        subcat:"3D & Animation"
+        subcat:"3D & Animation",
+        searchval:"Design 3D & Animation"
     },
     {
         id:87,
@@ -954,7 +1040,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Design",
-        subcat:"3D & Animation"
+        subcat:"3D & Animation",
+        searchval:"Design 3D & Animation"
     },
     {
         id:88,
@@ -965,7 +1052,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Design",
-        subcat:"3D & Animation"
+        subcat:"3D & Animation",
+        searchval:"Design 3D & Animation"
     },
     {
         id:89,
@@ -976,7 +1064,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Design",
-        subcat:"3D & Animation"
+        subcat:"3D & Animation",
+        searchval:"Design 3D & Animation"
     },
     {
         id:90,
@@ -987,7 +1076,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Design",
-        subcat:"3D & Animation"
+        subcat:"3D & Animation",
+        searchval:"Design 3D & Animation"
     },
     {
         id:91,
@@ -998,7 +1088,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Design",
-        subcat:"Fashion Design"
+        subcat:"Fashion Design",
+        searchval:"Design Fashion Design"
     },
     {
         id:92,
@@ -1009,7 +1100,8 @@ const Dummydata = [
         rating:"4.3",
         price:529,
         category:"Design",
-        subcat:"Fashion Design"
+        subcat:"Fashion Design",
+        searchval:"Design Fashion Design"
     },
     {
         id:93,
@@ -1020,7 +1112,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Design",
-        subcat:"Fashion Design"
+        subcat:"Fashion Design",
+        searchval:"Design Fashion Design"
     },
     {
         id:94,
@@ -1031,7 +1124,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Design",
-        subcat:"Fashion Design"
+        subcat:"Fashion Design",
+        searchval:"Design Fashion Design"
     },
     {
         id:95,
@@ -1042,7 +1136,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Design",
-        subcat:"Fashion Design"
+        subcat:"Fashion Design",
+        searchval:"Design Fashion Design"
     },
     {
         id:96,
@@ -1053,7 +1148,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Marketing",
-        subcat:"Digital Marketing"
+        subcat:"Digital Marketing",
+        searchval:"Design Digital Marketing"
     },
     {
         id:97,
@@ -1064,7 +1160,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Marketing",
-        subcat:"Digital Marketing"
+        subcat:"Digital Marketing",
+        searchval:"Design Digital Marketing"
     },
     {
         id:98,
@@ -1075,7 +1172,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Marketing",
-        subcat:"Digital Marketing"
+        subcat:"Digital Marketing",
+        searchval:"Design Digital Marketing"
     },
     {
         id:99,
@@ -1086,7 +1184,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Marketing",
-        subcat:"Digital Marketing"
+        subcat:"Digital Marketing",
+        searchval:"Design Digital Marketing"
     },
     {
         id:100,
@@ -1097,7 +1196,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Marketing",
-        subcat:"Digital Marketing"
+        subcat:"Digital Marketing",
+        searchval:"Design Digital Marketing"
     },
     {
         id:101,
@@ -1108,7 +1208,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Marketing",
-        subcat:"Social Media Marketing"
+        subcat:"Social Media Marketing",
+        searchval:"Design Social Media Marketing"
     },
     {
         id:102,
@@ -1119,7 +1220,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Marketing",
-        subcat:"Social Media Marketing"
+        subcat:"Social Media Marketing",
+        searchval:"Design Social Media Marketing"
     },
     {
         id:103,
@@ -1130,7 +1232,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Marketing",
-        subcat:"Social Media Marketing"
+        subcat:"Social Media Marketing",
+        searchval:"Design Social Media Marketing"
     },
     {
         id:104,
@@ -1141,7 +1244,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Marketing",
-        subcat:"Social Media Marketing"
+        subcat:"Social Media Marketing",
+        searchval:"Design Social Media Marketing"
     },
     {
         id:105,
@@ -1152,7 +1256,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Marketing",
-        subcat:"Social Media Marketing"
+        subcat:"Social Media Marketing",
+        searchval:"Design Social Media Marketing"
     },
     {
         id:106,
@@ -1163,7 +1268,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Marketing",
-        subcat:"Public Relationship"
+        subcat:"Public Relationship",
+        searchval:"Design Public Relationship"
     },
     {
         id:107,
@@ -1174,7 +1280,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Marketing",
-        subcat:"Public Relationship"
+        subcat:"Public Relationship",
+        searchval:"Design Public Relationship"
     },
     {
         id:108,
@@ -1185,7 +1292,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Marketing",
-        subcat:"Public Relationship"
+        subcat:"Public Relationship",
+        searchval:"Design Public Relationship"
     },
     {
         id:109,
@@ -1196,7 +1304,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Marketing",
-        subcat:"Public Relationship"
+        subcat:"Public Relationship",
+        searchval:"Design Public Relationship"
     },
     {
         id:110,
@@ -1207,7 +1316,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Marketing",
-        subcat:"Public Relationship"
+        subcat:"Public Relationship",
+        searchval:"Design Public Relationship"
     },
     {
         id:111,
@@ -1218,7 +1328,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Marketing",
-        subcat:"Content Marketing"
+        subcat:"Content Marketing",
+        searchval:"Design Content Marketing",
     },
     {
         id:112,
@@ -1229,7 +1340,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Marketing",
-        subcat:"Content Marketing"
+        subcat:"Content Marketing",
+        searchval:"Design Content Marketing"
     },
     {
         id:113,
@@ -1240,7 +1352,8 @@ const Dummydata = [
         rating:"4.2",
         price:529,
         category:"Marketing",
-        subcat:"Content Marketing"
+        subcat:"Content Marketing",
+        searchval:"Design Content Marketing"
     },
     {
         id:114,
@@ -1251,7 +1364,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Marketing",
-        subcat:"Content Marketing"
+        subcat:"Content Marketing",
+        searchval:"Design Content Marketing"
     },
     {
         id:115,
@@ -1262,7 +1376,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Marketing",
-        subcat:"Content Marketing"
+        subcat:"Content Marketing",
+        searchval:"Design Content Marketing"
     },
     {
         id:116,
@@ -1273,7 +1388,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Life Style",
-        subcat:"Arts & Crafts"
+        subcat:"Arts & Crafts",
+        searchval:"Life Style Arts & Crafts",
     },
     {
         id:117,
@@ -1284,7 +1400,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Life Style",
-        subcat:"Arts & Crafts"
+        subcat:"Arts & Crafts",
+        searchval:"Life Style Arts & Crafts"
     },
     {
         id:118,
@@ -1295,7 +1412,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Life Style",
-        subcat:"Arts & Crafts"
+        subcat:"Arts & Crafts",
+        searchval:"Life Style Arts & Crafts"
     },
     {
         id:119,
@@ -1306,7 +1424,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Life Style",
-        subcat:"Arts & Crafts"
+        subcat:"Arts & Crafts",
+        searchval:"Life Style Arts & Crafts"
     },
     {
         id:120,
@@ -1317,7 +1436,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Life Style",
-        subcat:"Arts & Crafts"
+        subcat:"Arts & Crafts",
+        searchval:"Life Style Arts & Crafts"
     },
     {
         id:121,
@@ -1328,7 +1448,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Life Style",
-        subcat:"Beauty & Makeup"
+        subcat:"Beauty & Makeup",
+        searchval:"Life Style Beauty & Makeup"
     },
     {
         id:122,
@@ -1339,7 +1460,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Life Style",
-        subcat:"Beauty & Makeup"
+        subcat:"Beauty & Makeup",
+        searchval:"Life Style Beauty & Makeup"
     },
     {
         id:123,
@@ -1350,7 +1472,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Life Style",
-        subcat:"Beauty & Makeup"
+        subcat:"Beauty & Makeup",
+        searchval:"Life Style Beauty & Makeup"
     },
     {
         id:124,
@@ -1361,7 +1484,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Life Style",
-        subcat:"Beauty & Makeup"
+        subcat:"Beauty & Makeup",
+        searchval:"Life Style Beauty & Makeup"
     },
     {
         id:125,
@@ -1372,7 +1496,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Life Style",
-        subcat:"Beauty & Makeup"
+        subcat:"Beauty & Makeup",
+        searchval:"Life Style Beauty & Makeup"
     },
     {
         id:126,
@@ -1383,7 +1508,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Life Style",
-        subcat:"Food & Beverage"
+        subcat:"Food & Beverage",
+        searchval:"Life Style Food & Beverage",
     },
     {
         id:127,
@@ -1394,7 +1520,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Life Style",
-        subcat:"Food & Beverage"
+        subcat:"Food & Beverage",
+        searchval:"Life Style Food & Beverage"
     },
     {
         id:128,
@@ -1405,7 +1532,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Life Style",
-        subcat:"Food & Beverage"
+        subcat:"Food & Beverage",
+        searchval:"Life Style Food & Beverage"
     },
     {
         id:129,
@@ -1416,7 +1544,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Life Style",
-        subcat:"Food & Beverage"
+        subcat:"Food & Beverage",
+        searchval:"Life Style Food & Beverage"
     },
     {
         id:130,
@@ -1427,7 +1556,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Life Style",
-        subcat:"Food & Beverage"
+        subcat:"Food & Beverage",
+        searchval:"Life Style Food & Beverage"
     },
     {
         id:131,
@@ -1438,7 +1568,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Life Style",
-        subcat:"Pet Care & Training"
+        subcat:"Pet Care & Training",
+        searchval:"Life Style Pet Care & Training",
     },
     {
         id:132,
@@ -1449,7 +1580,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Life Style",
-        subcat:"Pet Care & Training"
+        subcat:"Pet Care & Training",
+        searchval:"Life Style Pet Care & Training"
     },
     {
         id:133,
@@ -1460,7 +1592,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Life Style",
-        subcat:"Pet Care & Training"
+        subcat:"Pet Care & Training",
+        searchval:"Life Style Pet Care & Training"
     },
     {
         id:134,
@@ -1471,7 +1604,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Life Style",
-        subcat:"Pet Care & Training"
+        subcat:"Pet Care & Training",
+        searchval:"Life Style Pet Care & Training"
     },
     {
         id:135,
@@ -1482,7 +1616,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Life Style",
-        subcat:"Pet Care & Training"
+        subcat:"Pet Care & Training",
+        searchval:"Life Style Pet Care & Training"
     },
     {
         id:136,
@@ -1493,7 +1628,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Photography & Video",
-        subcat:"Digital Photography"
+        subcat:"Digital Photography",
+        searchval:"Photography & Video Digital Photography",
     },
     {
         id:137,
@@ -1504,7 +1640,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Photography & Video",
-        subcat:"Digital Photography"
+        subcat:"Digital Photography",
+        searchval:"Photography & Video Digital Photography"
     },
     {
         id:138,
@@ -1515,7 +1652,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Photography & Video",
-        subcat:"Digital Photography"
+        subcat:"Digital Photography",
+        searchval:"Photography & Video Digital Photography"
     },
     {
         id:139,
@@ -1526,7 +1664,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Photography & Video",
-        subcat:"Digital Photography"
+        subcat:"Digital Photography",
+        searchval:"Photography & Video Digital Photography"
     },
     {
         id:140,
@@ -1537,7 +1676,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Photography & Video",
-        subcat:"Digital Photography"
+        subcat:"Digital Photography",
+        searchval:"Photography & Video Digital Photography"
     },
     {
         id:141,
@@ -1548,7 +1688,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Photography & Video",
-        subcat:"Photography"
+        subcat:"Photography",
+        searchval:"Photography & Video Photography"
     },
     {
         id:142,
@@ -1559,7 +1700,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Photography & Video",
-        subcat:"Photography"
+        subcat:"Photography",
+        searchval:"Photography & Video Photography"
     },
     {
         id:143,
@@ -1570,7 +1712,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Photography & Video",
-        subcat:"Photography"
+        subcat:"Photography",
+        searchval:"Photography & Video Photography"
     },
     {
         id:144,
@@ -1581,7 +1724,8 @@ const Dummydata = [
         rating:"4.3",
         price:529,
         category:"Photography & Video",
-        subcat:"Photography"
+        subcat:"Photography",
+        searchval:"Photography & Video Photography"
     },
     {
         id:145,
@@ -1592,7 +1736,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Photography & Video",
-        subcat:"Photography"
+        subcat:"Photography",
+        searchval:"Photography & Video Photography"
     },
     {
         id:146,
@@ -1603,7 +1748,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Photography & Video",
-        subcat:"Video Design"
+        subcat:"Video Design",
+        searchval:"Photography & Video Video Design"
     },
     {
         id:147,
@@ -1614,7 +1760,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Photography & Video",
-        subcat:"Video Design"
+        subcat:"Video Design",
+        searchval:"Photography & Video Video Design"
     },
     {
         id:148,
@@ -1625,7 +1772,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Photography & Video",
-        subcat:"Video Design"
+        subcat:"Video Design",
+        searchval:"Photography & Video Video Design"
     },
     {
         id:149,
@@ -1636,7 +1784,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Photography & Video",
-        subcat:"Video Design"
+        subcat:"Video Design",
+        searchval:"Photography & Video Video Design"
     },
     {
         id:150,
@@ -1647,7 +1796,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Photography & Video",
-        subcat:"Video Design"
+        subcat:"Video Design",
+        searchval:"Photography & Video Video Design"
     },
     {
         id:151,
@@ -1658,7 +1808,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Photography & Video",
-        subcat:"Commercial Photography"
+        subcat:"Commercial Photography",
+        searchval:"Photography & Video Commercial Photography",
     },
     {
         id:152,
@@ -1669,7 +1820,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Photography & Video",
-        subcat:"Commercial Photography"
+        subcat:"Commercial Photography",
+        searchval:"Photography & Video Commercial Photography"
     },
     {
         id:153,
@@ -1680,7 +1832,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Photography & Video",
-        subcat:"Commercial Photography"
+        subcat:"Commercial Photography",
+        searchval:"Photography & Video Commercial Photography"
     },
     {
         id:154,
@@ -1691,7 +1844,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Photography & Video",
-        subcat:"Commercial Photography"
+        subcat:"Commercial Photography",
+        searchval:"Photography & Video Commercial Photography"
     },
     {
         id:155,
@@ -1702,7 +1856,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Photography & Video",
-        subcat:"Commercial Photography"
+        subcat:"Commercial Photography",
+        searchval:"Photography & Video Commercial Photography"
     },
     
     {
@@ -1714,7 +1869,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Music & Arts",
-        subcat:"Instruments"
+        subcat:"Instruments",
+        searchval:"Music & Arts Instruments"
     },
     {
         id:157,
@@ -1725,7 +1881,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Music & Arts",
-        subcat:"Instruments"
+        subcat:"Instruments",
+        searchval:"Music & Arts Instruments"
     },
     {
         id:158,
@@ -1736,7 +1893,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Music & Arts",
-        subcat:"Instruments"
+        subcat:"Instruments",
+        searchval:"Music & Arts Instruments"
     },
     {
         id:159,
@@ -1747,7 +1905,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Music & Arts",
-        subcat:"Instruments"
+        subcat:"Instruments",
+        searchval:"Music & Arts Instruments"
     },
     {
         id:160,
@@ -1758,7 +1917,8 @@ const Dummydata = [
         rating:"4.2",
         price:7900,
         category:"Music & Arts",
-        subcat:"Instruments"
+        subcat:"Instruments",
+        searchval:"Music & Arts Instruments"
     },
     {
         id:161,
@@ -1769,7 +1929,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Production"
+        subcat:"Music Production",
+        searchval:"Music & Arts Music Production",
     },
     {
         id:162,
@@ -1780,7 +1941,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Production"
+        subcat:"Music Production",
+        searchval:"Music & Arts Music Production"
     },
     {
         id:163,
@@ -1791,7 +1953,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Production"
+        subcat:"Music Production",
+        searchval:"Music & Arts Music Production"
     },
     {
         id:164,
@@ -1802,7 +1965,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Production"
+        subcat:"Music Production",
+        searchval:"Music & Arts Music Production"
     },
     {
         id:165,
@@ -1813,7 +1977,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Production"
+        subcat:"Music Production",
+        searchval:"Music & Arts Music Production"
     },
     {
         id:166,
@@ -1824,7 +1989,8 @@ const Dummydata = [
         rating:"4.4",
         price:529,
         category:"Music & Arts",
-        subcat:"Vocal"
+        subcat:"Vocal",
+        searchval:"Music & Arts Vocal",
     },
     {
         id:167,
@@ -1835,7 +2001,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Music & Arts",
-        subcat:"Vocal"
+        subcat:"Vocal",
+        searchval:"Music & Arts Vocal"
     },
     {
         id:168,
@@ -1846,7 +2013,8 @@ const Dummydata = [
         rating:"4.9",
         price:3399,
         category:"Music & Arts",
-        subcat:"Vocal"
+        subcat:"Vocal",
+        searchval:"Music & Arts Vocal"
     },
     {
         id:169,
@@ -1857,7 +2025,8 @@ const Dummydata = [
         rating:"4.4",
         price:799,
         category:"Music & Arts",
-        subcat:"Vocal"
+        subcat:"Vocal",
+        searchval:"Music & Arts Vocal"
     },
     {
         id:170,
@@ -1868,7 +2037,8 @@ const Dummydata = [
         rating:"4.9",
         price:529,
         category:"Music & Arts",
-        subcat:"Vocal"
+        subcat:"Vocal",
+        searchval:"Music & Arts Vocal"
     },
     {
         id:171,
@@ -1879,7 +2049,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Music & Arts",
-        subcat:"Music Software"
+        subcat:"Music Software",
+        searchval:"Music & Arts Music Software"
     },
     {
         id:172,
@@ -1890,7 +2061,8 @@ const Dummydata = [
         rating:"4.4",
         price:799,
         category:"Music & Arts",
-        subcat:"Music Software"
+        subcat:"Music Software",
+        searchval:"Music & Arts Music Software"
     },
     {
         id:173,
@@ -1901,7 +2073,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Music & Arts",
-        subcat:"Music Software"
+        subcat:"Music Software",
+        searchval:"Music & Arts Music Software"
     },
     {
         id:174,
@@ -1912,7 +2085,8 @@ const Dummydata = [
         rating:"4.3",
         price:699,
         category:"Music & Arts",
-        subcat:"Music Software"
+        subcat:"Music Software",
+        searchval:"Music & Arts Music Software"
     },
     {
         id:175,
@@ -1923,7 +2097,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Music & Arts",
-        subcat:"Music Software"
+        subcat:"Music Software",
+        searchval:"Music & Arts Music Software"
     },
     {
         id:176,
@@ -1934,7 +2109,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Health & Fitness",
-        subcat:"Fitness"
+        subcat:"Fitness",
+        searchval:"Health & Fitness Fitness"
     },
     {
         id:177,
@@ -1945,7 +2121,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Health & Fitness",
-        subcat:"Fitness"
+        subcat:"Fitness",
+        searchval:"Health & Fitness Fitness"
     },
     {
         id:178,
@@ -1956,7 +2133,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Health & Fitness",
-        subcat:"Fitness"
+        subcat:"Fitness",
+        searchval:"Health & Fitness Fitness"
     },
     {
         id:179,
@@ -1967,7 +2145,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Health & Fitness",
-        subcat:"Fitness"
+        subcat:"Fitness",
+        searchval:"Health & Fitness Fitness"
     },
     {
         id:180,
@@ -1978,7 +2157,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Health & Fitness",
-        subcat:"Fitness"
+        subcat:"Fitness",
+        searchval:"Health & Fitness Fitness"
     },
     {
         id:181,
@@ -1989,7 +2169,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Health & Fitness",
-        subcat:"Sport"
+        subcat:"Sport",
+        searchval:"Health & Fitness Sport"
     },
     {
         id:182,
@@ -2000,7 +2181,8 @@ const Dummydata = [
         rating:"3.7",
         price:699,
         category:"Health & Fitness",
-        subcat:"Sport"
+        subcat:"Sport",
+        searchval:"Health & Fitness Sport"
     },
     {
         id:183,
@@ -2011,7 +2193,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Health & Fitness",
-        subcat:"Sport"
+        subcat:"Sport",
+        searchval:"Health & Fitness Sport"
     },
     {
         id:184,
@@ -2022,7 +2205,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Health & Fitness",
-        subcat:"Sport"
+        subcat:"Sport",
+        searchval:"Health & Fitness Sport"
     },
     {
         id:185,
@@ -2033,7 +2217,8 @@ const Dummydata = [
         rating:"4.8",
         price:699,
         category:"Health & Fitness",
-        subcat:"Sport"
+        subcat:"Sport",
+        searchval:"Health & Fitness Sport"
     },
     {
         id:186,
@@ -2044,7 +2229,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Health & Fitness",
-        subcat:"Yoga"
+        subcat:"Yoga",
+        searchval:"Health & Fitness Yoga"
     },
     {
         id:187,
@@ -2055,7 +2241,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Health & Fitness",
-        subcat:"Yoga"
+        subcat:"Yoga",
+        searchval:"Health & Fitness Yoga"
     },
     {
         id:188,
@@ -2066,7 +2253,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Health & Fitness",
-        subcat:"Yoga"
+        subcat:"Yoga",
+        searchval:"Health & Fitness Yoga"
     },
     {
         id:189,
@@ -2077,7 +2265,8 @@ const Dummydata = [
         rating:"4.5",
         price:7900,
         category:"Health & Fitness",
-        subcat:"Yoga"
+        subcat:"Yoga",
+        searchval:"Health & Fitness Yoga"
     },
     {
         id:190,
@@ -2088,7 +2277,8 @@ const Dummydata = [
         rating:"4.9",
         price:699,
         category:"Health & Fitness",
-        subcat:"Yoga"
+        subcat:"Yoga",
+        searchval:"Health & Fitness Yoga"
     },
     {
         id:191,
@@ -2099,7 +2289,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Health & Fitness",
-        subcat:"Mental Health"
+        subcat:"Mental Health",
+        searchval:"Health & Fitness Mental Health"
     },
     {
         id:192,
@@ -2110,7 +2301,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Health & Fitness",
-        subcat:"Mental Health"
+        subcat:"Mental Health",
+        searchval:"Health & Fitness Mental Health"
     },
     {
         id:193,
@@ -2121,7 +2313,8 @@ const Dummydata = [
         rating:"4.1",
         price:699,
         category:"Health & Fitness",
-        subcat:"Mental Health"
+        subcat:"Mental Health",
+        searchval:"Health & Fitness Mental Health"
     },
     {
         id:194,
@@ -2132,7 +2325,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Health & Fitness",
-        subcat:"Mental Health"
+        subcat:"Mental Health",
+        searchval:"Health & Fitness Mental Health"
     },
     {
         id:195,
@@ -2143,7 +2337,8 @@ const Dummydata = [
         rating:"4.3",
         price:699,
         category:"Health & Fitness",
-        subcat:"Mental Health"
+        subcat:"Mental Health",
+        searchval:"Health & Fitness Mental Health"
     }, 
     {
         id:196,
@@ -2154,7 +2349,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Engineering"
+        subcat:"Engineering",
+        searchval:"Teaching & Academic Engineering"
     },
     {
         id:197,
@@ -2165,7 +2361,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Engineering"
+        subcat:"Engineering",
+        searchval:"Teaching & Academic Engineering"
     },
     {
         id:198,
@@ -2176,7 +2373,8 @@ const Dummydata = [
         rating:"4.3",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Engineering"
+        subcat:"Engineering",
+        searchval:"Teaching & Academic Engineering"
     },
     {
         id:199,
@@ -2187,7 +2385,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Engineering"
+        subcat:"Engineering",
+        searchval:"Teaching & Academic Engineering"
     },
     {
         id:200,
@@ -2198,7 +2397,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Engineering"
+        subcat:"Engineering",
+        searchval:"Teaching & Academic Engineering"
     },
     {
         id:201,
@@ -2209,7 +2409,8 @@ const Dummydata = [
         rating:"478",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Math"
+        subcat:"Math",
+        searchval:"Teaching & Academic Math"
     },
     {
         id:202,
@@ -2220,7 +2421,8 @@ const Dummydata = [
         rating:"4.8",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Math"
+        subcat:"Math",
+         searchval:"Teaching & Academic Math"
     },
     {
         id:203,
@@ -2231,7 +2433,8 @@ const Dummydata = [
         rating:"4.8",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Math"
+        subcat:"Math",
+         searchval:"Teaching & Academic Math"
     },
     {
         id:204,
@@ -2242,7 +2445,8 @@ const Dummydata = [
         rating:"4.8",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Math"
+        subcat:"Math",
+         searchval:"Teaching & Academic Math"
     },
     {
         id:205,
@@ -2253,7 +2457,8 @@ const Dummydata = [
         rating:"4.8",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Math"
+        subcat:"Math",
+         searchval:"Teaching & Academic Math"
     },
     {
         id:206,
@@ -2264,7 +2469,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Science"
+        subcat:"Science",
+        searchval:"Teaching & Academic Science"
     },
     {
         id:207,
@@ -2275,7 +2481,8 @@ const Dummydata = [
         rating:"4.4",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Science"
+        subcat:"Science",
+        searchval:"Teaching & Academic Science"
     },
     {
         id:208,
@@ -2286,7 +2493,8 @@ const Dummydata = [
         rating:"4.3",
         price:799,
         category:"Teaching & Academic",
-        subcat:"Science"
+        subcat:"Science",
+        searchval:"Teaching & Academic Science"
     },
     {
         id:209,
@@ -2297,7 +2505,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Science"
+        subcat:"Science",
+        searchval:"Teaching & Academic Science"
     },
     {
         id:210,
@@ -2308,7 +2517,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Science"
+        subcat:"Science",
+        searchval:"Teaching & Academic Science"
     },
     {
         id:211,
@@ -2319,7 +2529,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Social Science"
+        subcat:"Social Science",
+        searchval:"Teaching & Academic Social Science"
     },
     {
         id:212,
@@ -2330,7 +2541,8 @@ const Dummydata = [
         rating:"4.8",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Social Science"
+        subcat:"Social Science",
+        searchval:"Teaching & Academic Social Science"
     },
     {
         id:213,
@@ -2341,7 +2553,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Social Science"
+        subcat:"Social Science",
+        searchval:"Teaching & Academic Social Science"
     },
     {
         id:214,
@@ -2352,7 +2565,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Social Science"
+        subcat:"Social Science",
+        searchval:"Teaching & Academic Social Science"
     },
     {
         id:215,
@@ -2363,7 +2577,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Teaching & Academic",
-        subcat:"Social Science"
+        subcat:"Social Science",
+        searchval:"Teaching & Academic Social Science"
     },
     {
         id: 216,
@@ -2374,7 +2589,8 @@ const Dummydata = [
         rating: "4.7",
         price: 529,
         category: "Design",
-        subcat: "Other Design"
+        subcat: "Other Design",
+        searchval:"Design Other Design"
       },
       {
         id: 217,
@@ -2385,7 +2601,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Design",
-        subcat: "Other Design"
+        subcat: "Other Design",
+        searchval:"Design Other Design"
       },
       {
         id: 218,
@@ -2396,7 +2613,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Design",
-        subcat: "Other Design"
+        subcat: "Other Design",
+        searchval:"Design Other Design"
       },
       {
         id: 219,
@@ -2407,7 +2625,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Design",
-        subcat: "Other Design"
+        subcat: "Other Design",
+        searchval:"Design Other Design"
       },
       {
         id: 220,
@@ -2418,7 +2637,8 @@ const Dummydata = [
         rating: "4.9",
         price: 679,
         category: "Design",
-        subcat: "Other Design"
+        subcat: "Other Design",
+        searchval:"Design Other Design"
       },
     {
         id: 221,
@@ -2429,7 +2649,8 @@ const Dummydata = [
         rating: "4.7",
         price: 529,
         category: "Marketing",
-        subcat: "Product Marketing"
+        subcat: "Product Marketing",
+        searchval:"Marketing Product Marketing"
       },
       {
         id: 222,
@@ -2440,7 +2661,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Marketing",
-        subcat: "Product Marketing"
+        subcat: "Product Marketing",
+        searchval:"Marketing Product Marketing"
       },
       {
         id: 223,
@@ -2451,7 +2673,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Marketing",
-        subcat: "Product Marketing"
+        subcat: "Product Marketing",
+        searchval:"Marketing Product Marketing"
       },
       {
         id: 224,
@@ -2462,7 +2685,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Marketing",
-        subcat: "Product Marketing"
+        subcat: "Product Marketing",
+        searchval:"Marketing Product Marketing"
       },
       {
         id: 225,
@@ -2473,7 +2697,8 @@ const Dummydata = [
         rating: "4.9",
         price: 679,
         category: "Marketing",
-        subcat: "Product Marketing"
+        subcat: "Product Marketing",
+        searchval:"Marketing Product Marketing"
       },
     {
         id: 226,
@@ -2484,7 +2709,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Life Style",
-        subcat: "Travel"
+        subcat: "Travel",
+        searchval:"Life Style Travel"
       },
       {
         id: 227,
@@ -2495,7 +2721,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Life Style",
-        subcat: "Travel"
+        subcat: "Travel",
+        searchval:"Life Style Travel"
       },
       {
         id: 228,
@@ -2506,7 +2733,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Life Style",
-        subcat: "Travel"
+        subcat: "Travel",
+        searchval:"Life Style Travel"
       },
       {
         id: 229,
@@ -2517,7 +2745,8 @@ const Dummydata = [
         rating: "4.9",
         price: 679,
         category: "Life Style",
-        subcat: "Travel"
+        subcat: "Travel",
+        searchval:"Life Style Travel"
       },
       {
         id: 230,
@@ -2528,7 +2757,8 @@ const Dummydata = [
         rating: "4.4",
         price: 499,
         category: "Life Style",
-        subcat: "Travel"
+        subcat: "Travel",
+        searchval:"Life Style Travel"
       },
     {
         id: 231,
@@ -2539,7 +2769,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Photography & Video",
-        subcat: "Photography Tools"
+        subcat: "Photography Tools",
+        searchval:"Photography & Video Photography Tools"
       },
       {
         id: 231,
@@ -2550,7 +2781,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Photography & Video",
-        subcat: "Photography Tools"
+        subcat: "Photography Tools",
+        searchval:"Photography & Video Photography Tools"
       },
       {
         id: 232,
@@ -2561,7 +2793,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Photography & Video",
-        subcat: "Photography Tools"
+        subcat: "Photography Tools",
+        searchval:"Photography & Video Photography Tools"
       },
       {
         id: 233,
@@ -2572,7 +2805,8 @@ const Dummydata = [
         rating: "4.9",
         price: 679,
         category: "Photography & Video",
-        subcat: "Photography Tools"
+        subcat: "Photography Tools",
+        searchval:"Photography & Video Photography Tools"
       },
       {
         id: 234,
@@ -2583,7 +2817,8 @@ const Dummydata = [
         rating: "4.4",
         price: 499,
         category: "Photography & Video",
-        subcat: "Photography Tools"
+        subcat: "Photography Tools",
+        searchval:"Photography & Video Photography Tools"
       },
     {
         id: 235,
@@ -2594,7 +2829,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Music & Arts",
-        subcat: "Music Techniques"
+        subcat: "Music Techniques",
+        searchval:"Music & Arts Music Techniques"
       },
       {
         id: 236,
@@ -2605,7 +2841,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Music & Arts",
-        subcat: "Music Techniques"
+        subcat: "Music Techniques",
+        searchval:"Music & Arts Music Techniques"
       },
       {
         id: 237,
@@ -2616,7 +2853,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Music & Arts",
-        subcat: "Music Techniques"
+        subcat: "Music Techniques",
+        searchval:"Music & Arts Music Techniques"
       },
       {
         id: 238,
@@ -2627,7 +2865,8 @@ const Dummydata = [
         rating: "4.9",
         price: 679,
         category: "Music & Arts",
-        subcat: "Music Techniques"
+        subcat: "Music Techniques",
+        searchval:"Music & Arts Music Techniques"
       },
       {
         id: 239,
@@ -2638,7 +2877,8 @@ const Dummydata = [
         rating: "4.4",
         price: 499,
         category: "Music & Arts",
-        subcat: "Music Techniques"
+        subcat: "Music Techniques",
+        searchval:"Music & Arts Music Techniques"
       },
     {
         id: 240,
@@ -2649,7 +2889,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Health & Fitness",
-        subcat: "Dance"
+        subcat: "Dance",
+        searchval:"Health & Fitness Dance",
       },
       {
         id: 241,
@@ -2660,7 +2901,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Health & Fitness",
-        subcat: "Dance"
+        subcat: "Dance",
+        searchval:"Health & Fitness Dance"
       },
       {
         id: 242,
@@ -2671,7 +2913,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Health & Fitness",
-        subcat: "Dance"
+        subcat: "Dance",
+        searchval:"Health & Fitness Dance"
       },
       {
         id: 243,
@@ -2682,7 +2925,8 @@ const Dummydata = [
         rating: "4.9",
         price: 679,
         category: "Health & Fitness",
-        subcat: "Dance"
+        subcat: "Dance",
+        searchval:"Health & Fitness Dance"
       },
       {
         id: 244,
@@ -2693,7 +2937,8 @@ const Dummydata = [
         rating: "4.4",
         price: 499,
         category: "Health & Fitness",
-        subcat: "Dance"
+        subcat: "Dance",
+        searchval:"Health & Fitness Dance"
       },
     {
         id: 245,
@@ -2704,7 +2949,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Teaching & Academic",
-        subcat: "Teacher Training"
+        subcat: "Teacher Training",
+        searchval:"Teaching & Academic Teacher Training"
       },
       {
         id: 246,
@@ -2715,7 +2961,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Teaching & Academic",
-        subcat: "Teacher Training"
+        subcat: "Teacher Training",
+        searchval:"Teaching & Academic Teacher Training"
       },
       {
         id: 247,
@@ -2726,7 +2973,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Teaching & Academic",
-        subcat: "Teacher Training"
+        subcat: "Teacher Training",
+        searchval:"Teaching & Academic Teacher Training"
       },
       {
         id: 248,
@@ -2737,7 +2985,8 @@ const Dummydata = [
         rating: "4.9",
         price: 679,
         category: "Teaching & Academic",
-        subcat: "Teacher Training"
+        subcat: "Teacher Training",
+        searchval:"Teaching & Academic Teacher Training"
       },
       {
         id: 249,
@@ -2748,7 +2997,8 @@ const Dummydata = [
         rating: "4.4",
         price: 499,
         category: "Teaching & Academic",
-        subcat: "Teacher Training"
+        subcat: "Teacher Training",
+        searchval:"Teaching & Academic Teacher Training"
       },
       {
         id: 250,
@@ -2759,7 +3009,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Business",
-        subcat: "Communication"
+        subcat: "Communication",
+        searchval:"Business Communication"
       },
       {
         id: 251,
@@ -2770,7 +3021,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Business",
-        subcat: "Communication"
+        subcat: "Communication",
+        searchval:"Business Communication"
       },
       {
         id: 252,
@@ -2781,7 +3033,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Business",
-        subcat: "Communication"
+        subcat: "Communication",
+        searchval:"Business Communication"
       },
       {
         id: 253,
@@ -2792,7 +3045,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Business",
-        subcat: "Managements"
+        subcat: "Managements",
+        searchval:"Business Managements"
       },
       {
         id: 254,
@@ -2803,7 +3057,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Business",
-        subcat: "Managements"
+        subcat: "Managements",
+        searchval:"Business Managements"
       },
       {
         id: 255,
@@ -2814,7 +3069,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Business",
-        subcat: "Managements"
+        subcat: "Managements",
+        searchval:"Business Managements"
       },
       {
         id: 256,
@@ -2825,7 +3081,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Business",
-        subcat: "Business Strategy"
+        subcat: "Business Strategy",
+        searchval:"Business Strategy"
       },
       {
         id: 257,
@@ -2836,7 +3093,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Business",
-        subcat: "Business Strategy"
+        subcat: "Business Strategy",
+        searchval:"Business Strategy"
       },
       {
         id: 258,
@@ -2847,7 +3105,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Business",
-        subcat: "Business Strategy"
+        subcat: "Business Strategy",
+        searchval:"Business Strategy"
       },
       {
         id: 259,
@@ -2858,7 +3117,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Business",
-        subcat: "Operations"
+        subcat: "Operations",
+        searchval:"Business Operations"
       },
       {
         id: 260,
@@ -2869,7 +3129,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Business",
-        subcat: "Operations"
+        subcat: "Operations",
+        searchval:"Business Operations"
       },
       {
         id: 261,
@@ -2880,7 +3141,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Business",
-        subcat: "Operations"
+        subcat: "Operations",
+        searchval:"Business Operations"
       },
       {
         id: 262,
@@ -2891,7 +3153,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Business",
-        subcat: "Human Resources"
+        subcat: "Human Resources",
+        searchval:"Business Human Resources"
       },
       {
         id: 263,
@@ -2902,7 +3165,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Business",
-        subcat: "Human Resources"
+        subcat: "Human Resources",
+        searchval:"Business Human Resources"
       },
       {
         id: 264,
@@ -2913,7 +3177,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Business",
-        subcat: "Human Resources"
+        subcat: "Human Resources",
+        searchval:"Business Human Resources"
       },
       {
         id: 265,
@@ -2924,7 +3189,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Finance & Accounting",
-        subcat: "Accounting & Bookkeeping"
+        subcat: "Accounting & Bookkeeping",
+        searchval:"Finance & Accounting Accounting & Bookkeeping"
       },
       {
         id: 266,
@@ -2935,7 +3201,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Finance & Accounting",
-        subcat: "Accounting & Bookkeeping"
+        subcat: "Accounting & Bookkeeping",
+        searchval:"Finance & Accounting Accounting & Bookkeeping"
       },
       {
         id: 267,
@@ -2946,7 +3213,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Finance & Accounting",
-        subcat: "Accounting & Bookkeeping"
+        subcat: "Accounting & Bookkeeping",
+        searchval:"Finance & Accounting Accounting & Bookkeeping"
       },
       {
         id: 268,
@@ -2957,7 +3225,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Finance & Accounting",
-        subcat: "Compliance"
+        subcat: "Compliance",
+        searchval:"Finance & Accounting Compliance"
       },
       {
         id: 269,
@@ -2968,7 +3237,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Finance & Accounting",
-        subcat: "Compliance"
+        subcat: "Compliance",
+        searchval:"Finance & Accounting Compliance"
       },
       {
         id: 270,
@@ -2979,7 +3249,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Finance & Accounting",
-        subcat: "Compliance"
+        subcat: "Compliance",
+        searchval:"Finance & Accounting Compliance"
       },
       {
         id: 271,
@@ -2990,7 +3261,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Finance & Accounting",
-        subcat: "Economic"
+        subcat: "Economic",
+        searchval:"Finance & Accounting Economic"
       },
       {
         id: 272,
@@ -3001,7 +3273,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Finance & Accounting",
-        subcat: "Economic"
+        subcat: "Economic",
+        searchval:"Finance & Accounting Economic"
       },
       {
         id: 273,
@@ -3012,7 +3285,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Finance & Accounting",
-        subcat: "Economic"
+        subcat: "Economic",
+        searchval:"Finance & Accounting Economic"
       },
       {
         id: 274,
@@ -3023,7 +3297,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Finance & Accounting",
-        subcat: "Finance"
+        subcat: "Finance",
+        searchval:"Finance & Accounting Finance"
       },
       {
         id: 275,
@@ -3034,7 +3309,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Finance & Accounting",
-        subcat: "Finance"
+        subcat: "Finance",
+        searchval:"Finance & Accounting Finance"
       },
       {
         id: 276,
@@ -3045,7 +3321,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Finance & Accounting",
-        subcat: "Finance"
+        subcat: "Finance",
+        searchval:"Finance & Accounting Finance"
       },
       {
         id: 277,
@@ -3056,7 +3333,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Finance & Accounting",
-        subcat: "Taxes"
+        subcat: "Taxes",
+        searchval:"Finance & Accounting Taxes"
       },
       {
         id: 278,
@@ -3067,7 +3345,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Finance & Accounting",
-        subcat: "Taxes"
+        subcat: "Taxes",
+        searchval:"Finance & Accounting Taxes"
       },
       {
         id: 279,
@@ -3078,7 +3357,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Finance & Accounting",
-        subcat: "Taxes"
+        subcat: "Taxes",
+        searchval:"Finance & Accounting Taxes"
       },
       {
         id: 280,
@@ -3089,7 +3369,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "IT & Software",
-        subcat: "IT Certification"
+        subcat: "IT Certification",
+        searchval:"IT & Software IT Certification"
       },
       {
         id: 281,
@@ -3100,7 +3381,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "IT & Software",
-        subcat: "IT Certification"
+        subcat: "IT Certification",
+        searchval:"IT & Software IT Certification"
       },
       {
         id: 282,
@@ -3111,7 +3393,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "IT & Software",
-        subcat: "IT Certification"
+        subcat: "IT Certification",
+        searchval:"IT & Software IT Certification"
       }, 
       {
         id: 283,
@@ -3122,7 +3405,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "IT & Software",
-        subcat: "Network & Security"
+        subcat: "Network & Security",
+        searchval:"IT & Software Network & Security"
       },
       {
         id: 284,
@@ -3133,7 +3417,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "IT & Software",
-        subcat: "Network & Security"
+        subcat: "Network & Security",
+        searchval:"IT & Software Network & Security"
       },
       {
         id: 285,
@@ -3144,7 +3429,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "IT & Software",
-        subcat: "Network & Security"
+        subcat: "Network & Security",
+        searchval:"IT & Software Network & Security"
       },
       {
         id: 286,
@@ -3155,7 +3441,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "IT & Software",
-        subcat: "Hardware"
+        subcat: "Hardware",
+        searchval:"IT & Software Hardware"
       },
       {
         id: 287,
@@ -3166,7 +3453,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "IT & Software",
-        subcat: "Hardware"
+        subcat: "Hardware",
+        searchval:"IT & Software Hardware"
       },
       {
         id: 288,
@@ -3177,8 +3465,10 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "IT & Software",
-        subcat: "Hardware"
-      },{
+        subcat: "Hardware",
+        searchval:"IT & Software Hardware"
+      },
+      {
         id: 289,
         img: "https://img-c.udemycdn.com/course/240x135/2337452_b8e7_4.jpg",
         heading: "Mastering Linux Administration",
@@ -3187,7 +3477,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "IT & Software",
-        subcat: "Operating Systems & Servers"
+        subcat: "Operating system & Server",
+        searchval:"IT & Software Operating system & Server"
       },
       {
         id: 290,
@@ -3198,7 +3489,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "IT & Software",
-        subcat: "Operating Systems & Servers"
+        subcat: "Operating system & Server",
+        searchval:"IT & Software Operating system & Server"
       },
       {
         id: 291,
@@ -3209,7 +3501,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "IT & Software",
-        subcat: "Operating Systems & Servers"
+        subcat: "Operating system & Server",
+        searchval:"IT & Software Operating system & Server"
       },
       {
         id: 292,
@@ -3220,7 +3513,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "IT & Software",
-        subcat: "Other IT & Software"
+        subcat: "Other IT & Software",
+        searchval:"IT & Software Other IT & Software"
       },
       {
         id: 293,
@@ -3231,7 +3525,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "IT & Software",
-        subcat: "Other IT & Software"
+        subcat: "Other IT & Software",
+        searchval:"IT & Software Other IT & Software"
       },
       {
         id: 294,
@@ -3242,7 +3537,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "IT & Software",
-        subcat: "Other IT & Software"
+        subcat: "Other IT & Software",
+        searchval:"IT & Software Other IT & Software"
       },
       {
         id: 295,
@@ -3253,7 +3549,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Design",
-        subcat: "Web Design"
+        subcat: "Web Design",
+        searchval:"Design Web Design"
       },
       {
         id: 296,
@@ -3264,7 +3561,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Design",
-        subcat: "Web Design"
+        subcat: "Web Design",
+        searchval:"Design Web Design"
       },
       {
         id: 297,
@@ -3275,7 +3573,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Design",
-        subcat: "Web Design"
+        subcat: "Web Design",
+        searchval:"Design Web Design"
       },
       {
         id: 298,
@@ -3286,7 +3585,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Design",
-        subcat: "Game Design"
+        subcat: "Game Design",
+        searchval:"Design Game Design"
       },
       {
         id: 299,
@@ -3297,7 +3597,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Design",
-        subcat: "Game Design"
+        subcat: "Game Design",
+        searchval:"Design Game Design"
       },
       {
         id: 300,
@@ -3308,7 +3609,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Design",
-        subcat: "Game Design"
+        subcat: "Game Design",
+        searchval:"Design Game Design"
       },
       {
         id: 301,
@@ -3319,7 +3621,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Design",
-        subcat: "3D & Animation"
+        subcat: "3D & Animation",
+        searchval:"Design 3D & Animation"
       },
       {
         id: 302,
@@ -3330,7 +3633,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Design",
-        subcat: "3D & Animation"
+        subcat: "3D & Animation",
+        searchval:"Design 3D & Animation"
       },
       {
         id: 303,
@@ -3341,7 +3645,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Design",
-        subcat: "3D & Animation"
+        subcat: "3D & Animation",
+        searchval:"Design 3D & Animation"
       },
       {
         id: 304,
@@ -3352,7 +3657,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Design",
-        subcat: "Fashion Design"
+        subcat: "Fashion Design",
+        searchval:"Design Fashion Design"
       },
       {
         id: 305,
@@ -3363,7 +3669,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Design",
-        subcat: "Fashion Design"
+        subcat: "Fashion Design",
+        searchval:"Design Fashion Design"
       },
       {
         id: 306,
@@ -3374,7 +3681,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Design",
-        subcat: "Fashion Design"
+        subcat: "Fashion Design",
+        searchval:"Design Fashion Design"
       },
       {
         id: 307,
@@ -3385,7 +3693,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Marketing",
-        subcat: "Digital Marketing"
+        subcat: "Digital Marketing",
+        searchval:"Design Digital Marketing"
       },
       {
         id: 308,
@@ -3396,7 +3705,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Marketing",
-        subcat: "Digital Marketing"
+        subcat: "Digital Marketing",
+        searchval:"Design Digital Marketing"
       },
       {
         id: 309,
@@ -3407,7 +3717,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Marketing",
-        subcat: "Digital Marketing"
+        subcat: "Digital Marketing",
+        searchval:"Design Digital Marketing"
       },{
         id: 310,
         img: "https://img-c.udemycdn.com/course/240x135/1196522_4e75_4.jpg",
@@ -3417,7 +3728,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Marketing",
-        subcat: "Social Media Marketing"
+        subcat: "Social Media Marketing",
+        searchval:"Design Social Media Marketing"
       },
       {
         id: 311,
@@ -3428,7 +3740,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Marketing",
-        subcat: "Social Media Marketing"
+        subcat: "Social Media Marketing",
+        searchval:"Design Social Media Marketing"
       },
       {
         id: 312,
@@ -3439,7 +3752,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Marketing",
-        subcat: "Social Media Marketing"
+        subcat: "Social Media Marketing",
+        searchval:"Design Social Media Marketing"
       },
       {
         id: 313,
@@ -3450,7 +3764,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Marketing",
-        subcat: "Public Relations"
+        subcat: "Public Relationship",
+        searchval:"Design Public Relationship"
       },
       {
         id: 314,
@@ -3461,7 +3776,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Marketing",
-        subcat: "Public Relations"
+        subcat: "Public Relationship",
+        searchval:"Design Public Relationship"
       },
       {
         id: 315,
@@ -3472,7 +3788,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Marketing",
-        subcat: "Public Relations"
+        subcat: "Public Relationship",
+        searchval:"Design Public Relationship"
       },
       {
         id: 316,
@@ -3483,7 +3800,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Marketing",
-        subcat: "Content Marketing"
+        subcat: "Content Marketing",
+        searchval:"Design Content Marketing"
       },
       {
         id: 317,
@@ -3494,7 +3812,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Marketing",
-        subcat: "Content Marketing"
+        subcat: "Content Marketing",
+        searchval:"Design Content Marketing"
       },
       {
         id: 318,
@@ -3505,7 +3824,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Marketing",
-        subcat: "Content Marketing"
+        subcat: "Content Marketing",
+        searchval:"Design Content Marketing"
       },
       {
         id: 319,
@@ -3516,7 +3836,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Life Style",
-        subcat: "Arts & Crafts"
+        subcat: "Arts & Crafts",
+        searchval:"Life Style Arts & Crafts"
       },
       {
         id: 320,
@@ -3527,7 +3848,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Life Style",
-        subcat: "Arts & Crafts"
+        subcat: "Arts & Crafts",
+        searchval:"Life Style Arts & Crafts"
       },
       {
         id: 321,
@@ -3538,7 +3860,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Life Style",
-        subcat: "Arts & Crafts"
+        subcat: "Arts & Crafts",
+        searchval:"Life Style Arts & Crafts"
       },
       {
         id: 322,
@@ -3549,7 +3872,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Life Style",
-        subcat: "Beauty & Makeup"
+        subcat: "Beauty & Makeup",
+        searchval:"Life Style Beauty & Makeup"
       },
       {
         id: 323,
@@ -3560,7 +3884,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Life Style",
-        subcat: "Beauty & Makeup"
+        subcat: "Beauty & Makeup",
+        searchval:"Life Style Beauty & Makeup"
       },
       {
         id: 324,
@@ -3571,7 +3896,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Life Style",
-        subcat: "Beauty & Makeup"
+        subcat: "Beauty & Makeup",
+        searchval:"Life Style Beauty & Makeup"
       },
       {
         id: 325,
@@ -3582,7 +3908,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Life Style",
-        subcat: "Food & Beverage"
+        subcat: "Food & Beverage",
+        searchval:"Life Style Food & Beverage"
       },
       {
         id: 326,
@@ -3593,7 +3920,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Life Style",
-        subcat: "Food & Beverage"
+        subcat: "Food & Beverage",
+        searchval:"Life Style Food & Beverage"
       },
       {
         id: 327,
@@ -3604,7 +3932,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Life Style",
-        subcat: "Food & Beverage"
+        subcat: "Food & Beverage",
+        searchval:"Life Style Food & Beverage"
       },
       {
         id: 328,
@@ -3615,7 +3944,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Life Style",
-        subcat: "Pet Care & Training"
+        subcat: "Pet Care & Training",
+        searchval:"Life Style Pet Care & Training"
       },
       {
         id: 329,
@@ -3626,7 +3956,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Life Style",
-        subcat: "Pet Care & Training"
+        subcat: "Pet Care & Training",
+        searchval:"Life Style Pet Care & Training"
       },
       {
         id: 330,
@@ -3637,7 +3968,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Life Style",
-        subcat: "Pet Care & Training"
+        subcat: "Pet Care & Training",
+        searchval:"Life Style Pet Care & Training"
       },
       {
         id: 331,
@@ -3648,7 +3980,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Photography & Video",
-        subcat: "Digital Photography"
+        subcat: "Digital Photography",
+        searchval:"Photography & Video Digital Photography"
       },
       {
         id: 332,
@@ -3659,7 +3992,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Photography & Video",
-        subcat: "Digital Photography"
+        subcat: "Digital Photography",
+        searchval:"Photography & Video Digital Photography"
       },
       {
         id: 333,
@@ -3670,7 +4004,8 @@ const Dummydata = [
         rating: "4.5",
         price: 499,
         category: "Photography & Video",
-        subcat: "Digital Photography"
+        subcat: "Digital Photography",
+        searchval:"Photography & Video Digital Photography"
       },
       {
         id: 334,
@@ -3681,7 +4016,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Photography & Video",
-        subcat: "Photography"
+        subcat: "Photography",
+        searchval:"Photography & Video Photography"
       },
       {
         id: 335,
@@ -3692,7 +4028,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Photography & Video",
-        subcat: "Photography"
+        subcat: "Photography",
+        searchval:"Photography & Video Photography"
       },
       {
         id: 336,
@@ -3703,7 +4040,8 @@ const Dummydata = [
         rating: "4.5",
         price: 499,
         category: "Photography & Video",
-        subcat: "Photography"
+        subcat: "Photography",
+        searchval:"Photography & Video Photography"
       },
       {
         id: 337,
@@ -3714,7 +4052,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Photography & Video",
-        subcat: "Video Design"
+        subcat: "Video Design",
+        searchval:"Photography & Video Video Design"
       },
       {
         id: 338,
@@ -3725,7 +4064,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Photography & Video",
-        subcat: "Video Design"
+        subcat: "Video Design",
+        searchval:"Photography & Video Video Design"
       },
       {
         id: 339,
@@ -3736,7 +4076,8 @@ const Dummydata = [
         rating: "4.5",
         price: 499,
         category: "Photography & Video",
-        subcat: "Video Design"
+        subcat: "Video Design",
+        searchval:"Photography & Video Video Design"
       },
       {
         id: 340,
@@ -3747,7 +4088,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Photography & Video",
-        subcat: "Commercial Photography"
+        subcat: "Commercial Photography",
+        searchval:"Photography & Video Commercial Photography"
       },
       {
         id: 341,
@@ -3758,7 +4100,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Photography & Video",
-        subcat: "Commercial Photography"
+        subcat: "Commercial Photography",
+        searchval:"Photography & Video Commercial Photography"
       },
       {
         id: 342,
@@ -3769,7 +4112,8 @@ const Dummydata = [
         rating: "4.5",
         price: 499,
         category: "Photography & Video",
-        subcat: "Commercial Photography"
+        subcat: "Commercial Photography",
+        searchval:"Photography & Video Commercial Photography"
       },
       {
         id: 343,
@@ -3780,7 +4124,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Design",
-        subcat: "Other Design"
+        subcat: "Other Design",
+        searchval:"Design Other Design"
       },
       {
         id: 344,
@@ -3791,7 +4136,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Marketing",
-        subcat: "Product Marketing"
+        subcat: "Product Marketing",
+        searchval:"Marketing Product Marketing"
       },
       {
         id: 345,
@@ -3802,7 +4148,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Life Style",
-        subcat: "Travel"
+        subcat: "Travel",
+        searchval:"Life Style Travel"
       },
       {
         id: 346,
@@ -3813,7 +4160,8 @@ const Dummydata = [
         rating: "4.5",
         price: 499,
         category: "Photography & Video",
-        subcat: "Photography Tools"
+        subcat: "Photography Tools",
+        searchval:"Photography & Video Photography Tools"
       },
       {
         id: 347,
@@ -3824,7 +4172,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Photography & Video",
-        subcat: "Photography Tools"
+        subcat: "Photography Tools",
+        searchval:"Photography & Video Photography Tools"
       },
       {
         id: 348,
@@ -3835,7 +4184,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Photography & Video",
-        subcat: "Photography Tools"
+        subcat: "Photography Tools",
+        searchval:"Photography & Video Photography Tools"
       },
       {
         id: 349,
@@ -3846,7 +4196,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Music & Arts",
-        subcat: "Instruments"
+        subcat: "Instruments",
+        searchval:"Music & Arts Instruments"
       },
       {
         id: 350,
@@ -3857,7 +4208,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Music & Arts",
-        subcat: "Instruments"
+        subcat: "Instruments",
+        searchval:"Music & Arts Instruments"
       },
       {
         id: 351,
@@ -3868,7 +4220,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Music & Arts",
-        subcat: "Instruments"
+        subcat: "Instruments",
+        searchval:"Music & Arts Instruments"
       },
       {
         id:352,
@@ -3879,7 +4232,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Production"
+        subcat:"Music Production",
+        searchval:"Music & Arts Music Production"
     },
     {
         id:353,
@@ -3890,7 +4244,8 @@ const Dummydata = [
         rating:"4.2",
         price:7900,
         category:"Music & Arts",
-        subcat:"Music Production"
+        subcat:"Music Production",
+        searchval:"Music & Arts Music Production"
     },
     {
         id:354,
@@ -3901,7 +4256,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Production"
+        subcat:"Music Production",
+        searchval:"Music & Arts Music Production"
     },
     {
         id:355,
@@ -3912,7 +4268,8 @@ const Dummydata = [
         rating:"4.7",
         price:529,
         category:"Music & Arts",
-        subcat:"Vocal"
+        subcat:"Vocal",
+        searchval:"Music & Arts Vocal"
     },
     {
         id:356,
@@ -3923,7 +4280,8 @@ const Dummydata = [
         rating:"4.2",
         price:7900,
         category:"Music & Arts",
-        subcat:"Vocal"
+        subcat:"Vocal",
+        searchval:"Music & Arts Vocal"
     },
     {
         id:357,
@@ -3934,7 +4292,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Music & Arts",
-        subcat:"Vocal"
+        subcat:"Vocal",
+        searchval:"Music & Arts Vocal"
     },
     {
         id:358,
@@ -3945,7 +4304,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Software"
+        subcat:"Music Software",
+        searchval:"Music & Arts Music Software"
     },
     {
         id:359,
@@ -3956,7 +4316,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Software"
+        subcat:"Music Software",
+        searchval:"Music & Arts Music Software"
     },
     {
         id:360,
@@ -3967,7 +4328,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Software"
+        subcat:"Music Software",
+        searchval:"Music & Arts Music Software"
     },
     {
         id:361,
@@ -3978,7 +4340,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Techniques"
+        subcat:"Music Techniques",
+        searchval:"Music & Arts Music Techniques"
     },
     {
         id:362,
@@ -3989,7 +4352,8 @@ const Dummydata = [
         rating:"4.5",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Techniques"
+        subcat:"Music Techniques",
+        searchval:"Music & Arts Music Techniques"
     },
     {
         id:363,
@@ -4000,7 +4364,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Music & Arts",
-        subcat:"Music Techniques"
+        subcat:"Music Techniques",
+        searchval:"Music & Arts Music Techniques"
     },
     {
         id:364,
@@ -4011,7 +4376,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Health & Fitness",
-        subcat:"Sport"
+        subcat:"Sport",
+        searchval:"Health & Fitness Sport"
     },
     {
         id:365,
@@ -4022,7 +4388,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Health & Fitness",
-        subcat:"Fitness"
+        subcat:"Fitness",
+        searchval:"Health & Fitness Fitness"
     },
     {
         id:366,
@@ -4033,7 +4400,8 @@ const Dummydata = [
         rating:"3.7",
         price:699,
         category:"Health & Fitness",
-        subcat:"Fitness"
+        subcat:"Fitness",
+        searchval:"Health & Fitness Fitness"
     },
     {
         id:367,
@@ -4044,7 +4412,8 @@ const Dummydata = [
         rating:"4.7",
         price:699,
         category:"Health & Fitness",
-        subcat:"Fitness"
+        subcat:"Fitness",
+        searchval:"Health & Fitness Fitness"
     },
     {
         id:368,
@@ -4055,7 +4424,8 @@ const Dummydata = [
         rating:"4.6",
         price:529,
         category:"Health & Fitness",
-        subcat:"Sport"
+        subcat:"Sport",
+        searchval:"Health & Fitness Sport"
     },
     {
         id:369,
@@ -4066,7 +4436,8 @@ const Dummydata = [
         rating:"4.8",
         price:529,
         category:"Health & Fitness",
-        subcat:"Sport"
+        subcat:"Sport",
+        searchval:"Health & Fitness Sport"
     },
     {
         id: 370,
@@ -4077,7 +4448,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Health & Fitness",
-        subcat: "Yoga"
+        subcat: "Yoga",
+        searchval:"Health & Fitness Yoga"
       },
       {
         id: 371,
@@ -4088,7 +4460,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Health & Fitness",
-        subcat: "Yoga"
+        subcat: "Yoga",
+        searchval:"Health & Fitness Yoga"
       },
       {
         id: 372,
@@ -4099,7 +4472,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Health & Fitness",
-        subcat: "Yoga"
+        subcat: "Yoga",
+        searchval:"Health & Fitness Yoga"
       },
       {
         id:373,
@@ -4110,7 +4484,8 @@ const Dummydata = [
         rating:"478",
         price:699,
         category:"Health & Fitness",
-        subcat:"Mental Health"
+        subcat:"Mental Health",
+        searchval:"Health & Fitness Mental Health"
     },
     {
         id:374,
@@ -4121,7 +4496,8 @@ const Dummydata = [
         rating:"4.8",
         price:699,
         category:"Health & Fitness",
-        subcat:"Mental Health"
+        subcat:"Mental Health",
+        searchval:"Health & Fitness Mental Health"
     },
     {
         id:375,
@@ -4132,7 +4508,8 @@ const Dummydata = [
         rating:"4.8",
         price:699,
         category:"Health & Fitness",
-        subcat:"Mental Health"
+        subcat:"Mental Health",
+        searchval:"Health & Fitness Mental Health"
     },
     {
         id:376,
@@ -4143,7 +4520,8 @@ const Dummydata = [
         rating:"4.3",
         price:699,
         category:"Music & Arts",
-        subcat:"Dance"
+        subcat:"Dance",
+        searchval:"Health & Fitness Dance"
     },
     {
         id:377,
@@ -4154,7 +4532,8 @@ const Dummydata = [
         rating:"4.6",
         price:699,
         category:"Music & Arts",
-        subcat:"Dance"
+        subcat:"Dance",
+        searchval:"Health & Fitness Dance"
     },
     {
         id:378,
@@ -4165,7 +4544,8 @@ const Dummydata = [
         rating:"4.5",
         price:699,
         category:"Health & Fitness",
-        subcat:"Dance"
+        subcat:"Dance",
+        searchval:"Health & Fitness Dance"
     },
     {
         id: 379,
@@ -4176,7 +4556,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Teaching & Academic",
-        subcat: "Engineering"
+        subcat: "Engineering",
+        searchval:"Teaching & Academic Engineering"
       },
       {
         id: 380,
@@ -4187,7 +4568,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Teaching & Academic",
-        subcat: "Engineering"
+        subcat: "Engineering",
+        searchval:"Teaching & Academic Engineering"
       },
       {
         id: 381,
@@ -4198,7 +4580,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Teaching & Academic",
-        subcat: "Engineering"
+        subcat: "Engineering",
+        searchval:"Teaching & Academic Engineering"
       },
       {
         id: 382,
@@ -4209,7 +4592,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Teaching & Academic",
-        subcat: "Math"
+        subcat: "Math",
+         searchval:"Teaching & Academic Math"
       },
       {
         id: 383,
@@ -4220,7 +4604,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Teaching & Academic",
-        subcat: "Math"
+        subcat: "Math",
+         searchval:"Teaching & Academic Math"
       },
       {
         id: 384,
@@ -4231,7 +4616,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Teaching & Academic",
-        subcat: "Math"
+        subcat: "Math",
+         searchval:"Teaching & Academic Math"
       },
       {
         id: 385,
@@ -4242,7 +4628,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Teaching & Academic",
-        subcat: "Science"
+        subcat: "Science",
+        searchval:"Teaching & Academic Science"
       },
       {
         id: 386,
@@ -4253,7 +4640,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Teaching & Academic",
-        subcat: "Science"
+        subcat: "Science",
+        searchval:"Teaching & Academic Science"
       },
       {
         id: 387,
@@ -4264,7 +4652,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Teaching & Academic",
-        subcat: "Science"
+        subcat: "Science",
+        searchval:"Teaching & Academic Science"
       },
       {
         id: 388,
@@ -4275,7 +4664,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Teaching & Academic",
-        subcat: "Social Science"
+        subcat: "Social Science",
+        searchval:"Teaching & Academic Social Science"
       },
       {
         id: 389,
@@ -4286,7 +4676,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Teaching & Academic",
-        subcat: "Social Science"
+        subcat: "Social Science",
+        searchval:"Teaching & Academic Social Science"
       },
       {
         id: 390,
@@ -4297,7 +4688,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Teaching & Academic",
-        subcat: "Social Science"
+        subcat: "Social Science",
+        searchval:"Teaching & Academic Social Science"
       },
       {
         id: 391,
@@ -4308,7 +4700,8 @@ const Dummydata = [
         rating: "4.5",
         price: 449,
         category: "Teaching & Academic",
-        subcat: "Teacher training"
+        subcat: "Teacher training",
+        searchval:"Teaching & Academic Teacher Training"
       },
       {
         id: 392,
@@ -4319,7 +4712,8 @@ const Dummydata = [
         rating: "4.8",
         price: 599,
         category: "Teaching & Academic",
-        subcat: "Teacher training"
+        subcat: "Teacher training",
+        searchval:"Teaching & Academic Teacher Training"
       },
       {
         id: 393,
@@ -4330,7 +4724,8 @@ const Dummydata = [
         rating: "4.6",
         price: 549,
         category: "Teaching & Academic",
-        subcat: "Teacher training"
+        subcat: "Teacher training",
+        searchval:"Teaching & Academic Teacher Training"
       },
 
 ]
