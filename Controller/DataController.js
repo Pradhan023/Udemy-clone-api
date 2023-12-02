@@ -24,7 +24,7 @@ const getcartData = async(req,res)=>{
 
 const searchdata = async (req,res)=>{
     const {searchval} = req.query
-    // console.log(searchval);
+    console.log(searchval);
 
     const queryObj = {}
 
