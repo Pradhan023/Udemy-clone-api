@@ -1,6 +1,6 @@
 const  Dummydata = require("../Data")
 
-const {AlldataCollection,AlladdTocartCollection} = require("../Model/model")
+const {AlldataCollection,AlladdTocartCollection,AllmylearningCollection} = require("../Model/model")
     
 const pushData = async(req,res)=>{
     const sdata =await AlldataCollection.create(Dummydata)
@@ -21,6 +21,23 @@ const getcartData = async(req,res)=>{
     const cartdata = await AlladdTocartCollection.find({});
     res.send(cartdata)
 }
+
+const deleteCart = async(req,res)=>{
+    const deletecart = await AlladdTocartCollection.deleteMany({})
+    res.send(deletecart)
+}
+
+const pushlearningdata = async(req,res)=>{
+    const data = req.body;
+    const learningdata = await AllmylearningCollection.create(data)
+    res.send(learningdata)
+}
+
+const getlearning = async(req,res)=>{
+    const data = await AllmylearningCollection.find({})
+    res.send(data)
+}
+
 
 const searchdata = async (req,res)=>{
     const {searchval} = req.query
@@ -44,4 +61,4 @@ const searchdata = async (req,res)=>{
     return res.send(search)
 }
 
-module.exports = {pushData,getData,pushcartData,getcartData,searchdata}
+module.exports = {pushData,getData,pushcartData,getcartData,searchdata,deleteCart,pushlearningdata,getlearning}

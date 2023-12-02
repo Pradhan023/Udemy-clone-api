@@ -56,7 +56,34 @@ const addTocartSchema = mongoose.Schema({
     },
     heading:{
         type:String
-    },        
+    },
+    des:{
+        type:String
+    }, 
+    author:{
+        type:String
+    },
+    rating:{
+        type:String
+    },
+    price:{
+        type:Number
+    }
+})
+
+const learnignScehema = mongoose.Schema({
+    id:{
+        type:Number
+    },
+    img:{
+        type:String
+    },
+    heading:{
+        type:String
+    },
+    des:{
+        type:String
+    }, 
     author:{
         type:String
     },
@@ -70,6 +97,7 @@ const addTocartSchema = mongoose.Schema({
 
 const AlldataCollection = mongoose.model("AllData",allDataSchema)
 const AllregistrationCollection = mongoose.model("RegsData",allregDataSchema)
-const AlladdTocartCollection = mongoose.model("addtocart",addTocartSchema)
+const AlladdTocartCollection = mongoose.model("Addtocart",addTocartSchema)
+const AllmylearningCollection = mongoose.model("Mylearning",learnignScehema)
 
-module.exports = {AlldataCollection,AllregistrationCollection,AlladdTocartCollection}
+module.exports = {AlldataCollection,AllregistrationCollection,AlladdTocartCollection,AllmylearningCollection}
