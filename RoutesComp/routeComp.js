@@ -32,7 +32,7 @@ route.post("/out/create-checkout-session",async(req,res)=>{
                 name:item.heading,
 
             },
-            unit_amount:Total * 100
+            unit_amount:item.price * 100
         },
         quantity:item.quantity || 1
        }))
