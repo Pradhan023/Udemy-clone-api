@@ -24,7 +24,13 @@ const getcartData = async(req,res)=>{
 
 const deleteCart = async(req,res)=>{
     const deletecart = await AlladdTocartCollection.deleteMany({})
-    res.send(deletecart)
+    res.send(deletecart);
+}
+
+const removecart = async(req,res)=>{
+    const itemid = req.body;
+    const deleteitem = await AlladdTocartCollection.findOneAndDelete({id:itemid.id});
+    res.send(deleteitem)
 }
 
 const pushlearningdata = async(req,res)=>{
@@ -61,4 +67,4 @@ const searchdata = async (req,res)=>{
     return res.send(search)
 }
 
-module.exports = {pushData,getData,pushcartData,getcartData,searchdata,deleteCart,pushlearningdata,getlearning}
+module.exports = {pushData,getData,pushcartData,getcartData,searchdata,deleteCart,pushlearningdata,getlearning,removecart}

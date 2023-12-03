@@ -1,4 +1,4 @@
-const {pushData,getData,pushcartData,getcartData,searchdata, deleteCart,pushlearningdata,getlearning} = require("../Controller/DataController")
+const {pushData,getData,pushcartData,getcartData,searchdata, deleteCart,pushlearningdata,getlearning, removecart} = require("../Controller/DataController")
 const {RegisterController,LoginController} = require("../Authenticaton/Resgistration")
 
 const stripe = require("stripe")("sk_test_51OFIngSEzJx90BYMvlwLR2NykMIoiQcq4igz8DQEBl8Da28O4dIe4uWEHLSmLR0boVDncoqMz0k0GRaKMavG8Tne00R5o4kr6D")
@@ -19,6 +19,7 @@ route.post("/mylearning",pushlearningdata)
 route.get("/getlearningdata",getlearning)
 
 route.delete("/deleteallcart",deleteCart)
+route.post("/removeitem",removecart)
 
 //Payment route
 route.post("/out/create-checkout-session",async(req,res)=>{
