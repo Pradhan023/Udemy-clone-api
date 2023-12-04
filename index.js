@@ -6,7 +6,9 @@ const cors = require("cors")
 
 const Connection = require("./Config/config")
 
-app.use(cors())
+app.use(cors({
+    origin:'*'
+}))
 
 app.use(express.json())
 
