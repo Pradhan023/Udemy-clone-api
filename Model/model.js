@@ -48,8 +48,13 @@ const allregDataSchema = mongoose.Schema({
 }) 
 
 const addTocartSchema = mongoose.Schema({
+    user_id:{
+        type:mongoose.Schema.Types.ObjectId,
+        required:true,
+        ref:"User"
+    },
     id:{
-        type:Number
+        type:String
     },
     img:{
         type:String
@@ -72,6 +77,11 @@ const addTocartSchema = mongoose.Schema({
 })
 
 const learnignScehema = mongoose.Schema({
+    user_id:{
+        type:mongoose.Schema.Types.ObjectId,
+        required:true,
+        ref:"User"
+    },
     id:{
         type:Number
     },
@@ -96,7 +106,7 @@ const learnignScehema = mongoose.Schema({
 })
 
 const AlldataCollection = mongoose.model("AllData",allDataSchema)
-const AllregistrationCollection = mongoose.model("RegsData",allregDataSchema)
+const AllregistrationCollection = mongoose.model("User",allregDataSchema)
 const AlladdTocartCollection = mongoose.model("Addtocart",addTocartSchema)
 const AllmylearningCollection = mongoose.model("Mylearning",learnignScehema)
 

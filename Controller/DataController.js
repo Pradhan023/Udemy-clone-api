@@ -13,17 +13,18 @@ const getData = async(req,res)=>{
 
 const pushcartData = async(req,res)=>{
     const cartDetails = req.body;
-    const cartdata = await AlladdTocartCollection.create(cartDetails)
+    const obj = {...cartDetails , user_id:req.user.id}
+    const cartdata = await AlladdTocartCollection.create(obj)
     res.send(cartdata)
 }
 
 const getcartData = async(req,res)=>{
-    const cartdata = await AlladdTocartCollection.find({});
+    const cartdata = await AlladdTocartCollection.find({user_id:req.user.id});
     res.send(cartdata)
 }
 
 const deleteCart = async(req,res)=>{
-    const deletecart = await AlladdTocartCollection.deleteMany({})
+    const deletecart = await AlladdTocartCollection.deleteMany({user_id:req.user.id})
     res.send(deletecart);
 }
 
@@ -35,12 +36,13 @@ const removecart = async(req,res)=>{
 
 const pushlearningdata = async(req,res)=>{
     const data = req.body;
-    const learningdata = await AllmylearningCollection.create(data)
+    const obj = {...data , user_id:req.user.id}
+    const learningdata = await AllmylearningCollection.create(obj)
     res.send(learningdata)
 }
 
 const getlearning = async(req,res)=>{
-    const data = await AllmylearningCollection.find({})
+    const data = await AllmylearningCollection.find({user_id:req.user.id})
     res.send(data)
 }
 

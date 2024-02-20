@@ -1,6 +1,5 @@
 const {AllregistrationCollection} = require("../Model/model")
 const bcrypt = require("bcrypt");
-const secretKey = "Anish123";
 const jwt = require("jsonwebtoken")
 
 
@@ -42,7 +41,17 @@ const LoginController = async(req,res)=>{
     if(details){
         const encrypt = bcrypt.compareSync(password,details.password);
         if(encrypt){
-            const token = jwt.sign({email:email},secretKey,{expiresIn:"7d"});
+            const token = jwt.sign(
+              {
+                user: {
+                  username: details.username,
+                  email: details.email,
+                  id: details.id,
+                },
+              },
+              process.env.Secret_Key,
+              { expiresIn: "7d" }
+            );
             return res.send({msg:"User is successfully Login",name:details.username,email:details.email,token:token});
         }
         else {
