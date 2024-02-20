@@ -3,6 +3,7 @@ const jwt = require('jsonwebtoken');
 const auth = (req,res,next)=>{
     let token
     const authheader = req.headers.Authorization || req.headers.authorization;
+    // console.log(authheader);
 
     if(authheader && authheader.startsWith("Bearer")){
         token = authheader.split(" ")[1];
